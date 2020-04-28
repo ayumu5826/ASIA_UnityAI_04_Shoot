@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{E18633F6-66FC-DC22-7068-99C57801BFD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.ML-Agents.CommunicatorObjects", "Unity.ML-Agents.CommunicatorObjects.csproj", "{4028A0BD-C0CB-E295-0E86-4055D30DD1F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.ML-Agents", "Unity.ML-Agents.csproj", "{F80FBEEE-24F6-7375-1E1B-1AC3740B47F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.ML-Agents.Editor", "Unity.ML-Agents.Editor.csproj", "{C7FBA0CE-2978-DD40-C688-670F669E23FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E18633F6-66FC-DC22-7068-99C57801BFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E18633F6-66FC-DC22-7068-99C57801BFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E18633F6-66FC-DC22-7068-99C57801BFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E18633F6-66FC-DC22-7068-99C57801BFD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4028A0BD-C0CB-E295-0E86-4055D30DD1F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4028A0BD-C0CB-E295-0E86-4055D30DD1F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4028A0BD-C0CB-E295-0E86-4055D30DD1F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4028A0BD-C0CB-E295-0E86-4055D30DD1F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F80FBEEE-24F6-7375-1E1B-1AC3740B47F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F80FBEEE-24F6-7375-1E1B-1AC3740B47F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F80FBEEE-24F6-7375-1E1B-1AC3740B47F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F80FBEEE-24F6-7375-1E1B-1AC3740B47F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7FBA0CE-2978-DD40-C688-670F669E23FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7FBA0CE-2978-DD40-C688-670F669E23FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7FBA0CE-2978-DD40-C688-670F669E23FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7FBA0CE-2978-DD40-C688-670F669E23FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
